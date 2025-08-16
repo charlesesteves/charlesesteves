@@ -1,4 +1,4 @@
-- ## Olaaá, eu sou o Charles Esteves
+- ## Olá, eu sou o Charles Esteves
 
 - 💼 Atualmente não estou trabalhando..
 - 📚 Iniciei a faculdade de Análise e Desenvolvimento de Sistemas a pouco tempo ...
